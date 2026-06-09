@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "name": "foc-docs",
+  "emoji": "📚",
+  "description": "Search and fetch Filecoin Onchain Cloud documentation for Synapse SDK APIs, storage guides, payments, PDP concepts, and FOC reference material.",
+  "category": "developer-tools",
+  "author": "FIL-Builders"
+}
